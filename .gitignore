@@ -9,6 +9,5 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-.quartz/
 quartz/cli/tui/dist/
 content/projects/JW/입찰/입찰기록과분석/gas
